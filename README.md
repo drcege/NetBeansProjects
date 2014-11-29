@@ -1,7 +1,7 @@
 NetBeansProjects
 ================
 北邮
-面向对象分析与设计  JAVA  
+面向对象分析与设计 JAVA  
 
 -------------------Development Environment-------------------  
 
