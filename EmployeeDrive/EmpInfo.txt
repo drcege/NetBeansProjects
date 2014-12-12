@@ -1,0 +1,5 @@
+SalaridEmp,Tommy,1000,John
+CommissionEmp,Smith,10000,0.8
+HourlyEmp,Queen,100,50
+HourlyEmp,Peter,200,45
+BasePlusCommissionEmp,jane,10000,0.6,5000

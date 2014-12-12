@@ -1,0 +1,6 @@
+ID	Name	Salary
+0	Tommy	$4000.0
+1	Smith	$8000.0
+2	Queen	$5000.0
+3	Peter	$9000.0
+4	jane	$11000.0
